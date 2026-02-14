@@ -1,30 +1,16 @@
-<h1 align='center'>Portfolio</h1>
+# Portfolio
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; padding: 20px; max-width: 1000px; margin: 0 auto;">
-  <a href="https://github.com/dbalsrl7648/youminki/raw/main/portfolio/%EC%9D%B8%EB%AF%BC%EA%B8%B0_%EC%9D%B4%EB%A0%A5%EC%84%9C.pdf" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px; padding: 30px; text-align: center; color: white; font-weight: bold; font-size: 18px; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      📄<br><br>이력서<br>(Resume)
-    </div>
-  </a>
+## 📚 주요 문서
 
-  <a href="https://github.com/dbalsrl7648/youminki/raw/main/portfolio/%EC%9D%B8%EB%AF%BC%EA%B8%B0_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px; padding: 30px; text-align: center; color: white; font-weight: bold; font-size: 18px; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      🎯<br><br>포트폴리오<br>(Portfolio)
-    </div>
-  </a>
+| 항목 | 설명 |
+|:---:|:---|
+| [![📄 이력서](https://img.shields.io/badge/이력서-Resume-667eea?style=for-the-badge&logo=github)](./portfolio/유민기_이력서.pdf) | 경력 및 학력 정보 |
+| [![🎯 포트폴리오](https://img.shields.io/badge/포트폴리오-Portfolio-f5576c?style=for-the-badge&logo=github)](./portfolio/유민기_포트폴리오.pdf) | 프로젝트 및 작업 경험 |
 
-  <a href="https://www.youminki.blog/" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px; padding: 30px; text-align: center; color: white; font-weight: bold; font-size: 18px; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      📝<br><br>개인 블로그<br>(Personal Blog)
-    </div>
-  </a>
+## 🔗 더 알아보기
 
-  <a href="https://solved.ac/dbalsrl7648/" style="text-decoration: none;">
-    <div style="background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 12px; padding: 30px; text-align: center; color: white; font-weight: bold; font-size: 18px; cursor: pointer; transition: transform 0.3s, box-shadow 0.3s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 10px 20px rgba(0,0,0,0.2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='none'">
-      🏆<br><br>Solved.ac<br>(Problem Solving)
-    </div>
-  </a>
-</div>
+- 📝 [개인 블로그](https://www.youminki.blog/) - 기술 블로그 및 일상 기록
+- 🏆 [Solved.ac](https://solved.ac/dbalsrl7648/) - 알고리즘 문제 풀이 현황
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/dbalsrl7648" width="1000" />
