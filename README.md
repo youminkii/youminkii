@@ -4,7 +4,11 @@
 
 ---
 
-[![Resume](https://img.shields.io/badge/📄%20이력서-667eea?style=for-the-badge&logoColor=white&logoWidth=20&labelColor=667eea&link=https://github.com/dbalsrl7648/youminki/raw/main/portfolio/유민기_이력서.pdf)](https://github.com/dbalsrl7648/youminki/raw/main/portfolio/유민기_이력서.pdf) &nbsp;&nbsp;&nbsp; [![Portfolio](https://img.shields.io/badge/🎯%20포트폴리오-f5576c?style=for-the-badge&logoColor=white&logoWidth=20&labelColor=f5576c&link=https://github.com/dbalsrl7648/youminki/raw/main/portfolio/유민기_포트폴리오.pdf)](https://github.com/dbalsrl7648/youminki/raw/main/portfolio/유민기_포트폴리오.pdf) &nbsp;&nbsp;&nbsp; [![Blog](https://img.shields.io/badge/📝%20블로그-4facfe?style=for-the-badge&logoColor=white&logoWidth=20&labelColor=4facfe&link=https://www.youminki.blog/)](https://www.youminki.blog/)
+[![Resume](https://img.shields.io/badge/📄%20이력서-667eea?style=for-the-badge&logoColor=white&logoWidth=40&labelColor=667eea&fontSize=20&link=https://github.com/dbalsrl7648/youminki/raw/main/portfolio/유민기_이력서.pdf)](https://github.com/dbalsrl7648/youminki/raw/main/portfolio/유민기_이력서.pdf)
+
+[![Portfolio](https://img.shields.io/badge/🎯%20포트폴리오-f5576c?style=for-the-badge&logoColor=white&logoWidth=40&labelColor=f5576c&fontSize=20&link=https://github.com/dbalsrl7648/youminki/raw/main/portfolio/유민기_포트폴리오.pdf)](https://github.com/dbalsrl7648/youminki/raw/main/portfolio/유민기_포트폴리오.pdf)
+
+[![Blog](https://img.shields.io/badge/📝%20블로그-4facfe?style=for-the-badge&logoColor=white&logoWidth=40&labelColor=4facfe&fontSize=20&link=https://www.youminki.blog/)](https://www.youminki.blog/)
 
 ---
 
