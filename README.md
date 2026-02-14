@@ -11,6 +11,6 @@
 </div>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/dbalsrl7648" width="1000" />
+  <img src="https://render.gitanimals.org/farms/dbalsrl7648" width="100%" />
 </a>
 
